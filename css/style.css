@@ -1,1 +1,25 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: #ffdb58;
+      font-size: 150%;
+      color: white;
+      text-shadow: black;
+    }
+    
+
+    
+h3 {
+    font-size:200%;
+    text-align: center;
+}
+
+div {
+    border-style: solid ;
+}
+
+.myClass {
+      background-color: pink;
+      color: blue
+    }
+    
+    
